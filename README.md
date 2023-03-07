@@ -1,2 +1,4 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+# Todo App
+Run project by running two commands
+
+`npm install && cd todo-app && nodemon index.js`
